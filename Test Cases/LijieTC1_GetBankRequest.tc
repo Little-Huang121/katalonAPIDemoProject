@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add getBank request inot a test case</description>
+   <name>LijieTC1_GetBankRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3108daef-d7b0-4871-bf2c-6036ac8977fa</testCaseGuid>
+</TestCaseEntity>

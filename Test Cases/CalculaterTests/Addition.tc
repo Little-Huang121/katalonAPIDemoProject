@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Soap API test sample</description>
+   <name>Addition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4099ddf9-d7bc-4ca9-8ab3-6738db7cf8d5</testCaseGuid>
+</TestCaseEntity>
