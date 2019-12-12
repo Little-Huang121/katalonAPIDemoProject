@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>New Test case after GIT commit</description>
+   <name>TestTwo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9bb3e9a3-55cf-4e53-8435-6c93a6c34391</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>new test case after commit to GITHUB</description>
+   <name>TestOne</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a69900cc-2bcf-4355-8ea4-a5020bfe84a1</testCaseGuid>
+</TestCaseEntity>
